@@ -1,0 +1,5 @@
+this;setX(500)
+this;setY(500)
+this;setWidth(160)
+this;setHeight(90)
+this;show()

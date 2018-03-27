@@ -1,0 +1,2 @@
+this;setY(this;getY()-5)
+this;stopAtWall()

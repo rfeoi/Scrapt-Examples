@@ -1,0 +1,6 @@
+this;debug(Start test)
+this;setX(840)
+this;setY(900)
+this;show()
+this;setWidth(90)
+this;setHeight(160)

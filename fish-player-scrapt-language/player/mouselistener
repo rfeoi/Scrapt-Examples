@@ -1,0 +1,5 @@
+this;setX(mouse;getX())
+this;stopAtWall()
+if(this;touches(fish)=true){
+fish;hide()
+}
